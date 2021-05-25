@@ -17,6 +17,12 @@ git remote add origin https://github.com/Poovarasan1028/How-to-create-Repo.git
 
 git push -u origin main
 ```
+
+Push entire project in github
+```
+git push --all --set-upstream
+```
+
 …or push an existing repository from the command line
 
 ```
